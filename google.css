@@ -1,21 +1,24 @@
 body {background-color:#800080;}
-	background-image: https://orange-object.github.io/dude/;
+	background-image: https://orange-object.github.io/dude/index.html;
+
 }
-	a{color:#3383ff}
+
+        a{color:#3383ff}
 	a: hover{color:#009dff}
 
-alt="orange"
-alt="yellow"
+<div class="mustard">
+<div style="background-color:lightgrey; width:500px; border:10px solid green; padding:20px; margin-right: 0cm;">
+<img .left https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Yellowstone-black-bear-07895.jpg/500px-Yellowstone-black-bear-07895.jpg></div>
+<div style="background-color:lightgrey; width:500px; border:10px solid green; padding:20px; margin-left: 0cm;">
+<img .right http://www.corbinstreehouse.com/blog/wp-content/uploads/2009/12/IMG_64411.jpg>
+<img .pie https://orange-object.github.io/dude/index.html
+</div>
+span class="this"
 
-
-img .left https://leepavelich.files.wordpress.com/2012/03/earth-about-sun.png
-img .left1 http://img.sparknotes.com/content/sparklife/sparktalk/2013/whatifthesunwasgonebro_LargeWide.jpg
-img .right http://beforeitsnews.com/contributor/upload/30080/images/moon-orbit.jpg
-img .right1 http://www.theness.com/images/blogImages/moon2.jpg
-img .right2 https://www.spaceanswers.com/wp-content/uploads/2013/03/Rings_of_Earth_as_simulated_by_Celestia_with_addon_from_Eugene_Stauffer-CREDIT-Grebenkov.jpg
-img .right3 https://www.spaceanswers.com/wp-content/uploads/2013/03/Total-solar-eclipse-Credit-NASA.jpg
 
 body {background-color:#800080;}
+
+
 ul {
     list-style-type: none;
     margin: 0;
